@@ -54,9 +54,3 @@ Evaluated customer spending patterns.
 Compared revenue contribution across cities and cuisines.
 Ranked restaurants using SQL window functions.
 
-Food Delivery SQL Analytics & KPI Reporting
-
-Developed a relational database and analyzed 853 food delivery orders using MySQL.
-Created KPI reports for order volume, customer spending, restaurant performance, and revenue analysis.
-Applied SQL joins, aggregate functions, CASE statements, and window functions to generate business insights.
-Ranked restaurants and identified top customers through analytical SQL queries.
